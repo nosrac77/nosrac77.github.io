@@ -48,14 +48,14 @@ there are definitely some properties you should add!*/
     li {
         color: white;
         text-align: center;
-        -webkit-text-stroke: 1px blue;
         font-size: 35px;
         position: relative;
         top: -11px;
       }
 
       a {
-        color: white;
+        color: black;
+        font-family: 'Baloo Bhaina', cursive;
       }
 
     section {
@@ -80,6 +80,7 @@ there are definitely some properties you should add!*/
 
 h2 {
   text-align: center;
+  font-family: 'Ranga', cursive;
 }
 
 .house1 {
@@ -89,6 +90,8 @@ h2 {
 
 h3 {
   text-align: center;
+  font-size: xx-large;
+  font-family: 'Ranga', cursive;
 }
 
 .house2 {
@@ -98,4 +101,11 @@ h3 {
 
 .credit {
   text-align: center;
+  font-size: smaller;
+}
+
+p {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  font-size: large;
 }
